@@ -1,0 +1,2 @@
+" AEC 2012-01-05 Don't require github-markup
+let g:HammerQuiet = 1

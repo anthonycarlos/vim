@@ -1,0 +1,12 @@
+" AEC 2011-03-08 Change color scheme to vibrantink
+" This belongs in .gvimrc only.
+color vibrantink
+
+set guifont=Menlo:h16
+
+" AEC 2011-03-29 Set wrap
+set wrap
+
+" AEC 2011-03-08 Stop arrow keys from clearing visual mode.
+set keymodel=""
+
