@@ -10,3 +10,5 @@ set wrap
 " AEC 2011-03-08 Stop arrow keys from clearing visual mode.
 set keymodel=""
 
+" AEC 2012-01-25 Turn off the gui toolbar.
+set guioptions-=T
