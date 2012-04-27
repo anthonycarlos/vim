@@ -2,7 +2,8 @@
 " This belongs in .gvimrc only.
 color vibrantink
 
-set guifont=Menlo:h16
+" AEC 2012-04-27 Use a font available to Ubuntu.
+set guifont="DejaVu Sans Mono:h10"
 
 " AEC 2011-03-29 Set wrap
 set wrap
@@ -10,5 +11,5 @@ set wrap
 " AEC 2011-03-08 Stop arrow keys from clearing visual mode.
 set keymodel=""
 
-" AEC 2012-01-25 Turn off the gui toolbar.
-set guioptions-=T
+" AEC 2012-04-27 Turn off the gui toolbar.
+set go=t
